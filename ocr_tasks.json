@@ -1,0 +1,1460 @@
+[
+  {
+    "data": {
+      "ocr": "http://localhost:8080/data/local-files/?d=test/data/upload/51fKgIgEv5L.jpg"
+    },
+    "predictions": [
+      {
+        "result": [
+          {
+            "id": "8d3a92cb-d",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 39.8,
+              "y": 10.112359550561798,
+              "width": 23.2,
+              "height": 2.808988764044944,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "8d3a92cb-d",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "KIRPA JEWELLERS:"
+              ],
+              "x": 39.8,
+              "y": 10.112359550561798,
+              "width": 23.2,
+              "height": 2.808988764044944,
+              "rotation": 0
+            },
+            "score": 0.306
+          },
+          {
+            "id": "1e221fa7-d",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 29.8,
+              "y": 18.258426966292134,
+              "width": 43.4,
+              "height": 2.247191011235955,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "1e221fa7-d",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "ble NoSeTeSt2210 Emallt orpinyt2aGgMa cm"
+              ],
+              "x": 29.8,
+              "y": 18.258426966292134,
+              "width": 43.4,
+              "height": 2.247191011235955,
+              "rotation": 0
+            },
+            "score": 0.1225
+          },
+          {
+            "id": "f3165d96-5",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 45.4,
+              "y": 6.46067415730337,
+              "width": 9.8,
+              "height": 1.9662921348314606,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "f3165d96-5",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Taxinvoioe"
+              ],
+              "x": 45.4,
+              "y": 6.46067415730337,
+              "width": 9.8,
+              "height": 1.9662921348314606,
+              "rotation": 0
+            },
+            "score": -0.0075
+          },
+          {
+            "id": "41444744-b",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 5.4,
+              "y": 25.84269662921348,
+              "width": 75.8,
+              "height": 7.303370786516854,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "41444744-b",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "TPA Rona Nenagh aces 28  soi ee"
+              ],
+              "x": 5.4,
+              "y": 25.84269662921348,
+              "width": 75.8,
+              "height": 7.303370786516854,
+              "rotation": 0
+            },
+            "score": 0.1790909090909091
+          },
+          {
+            "id": "50035471-e",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 10.4,
+              "y": 39.325842696629216,
+              "width": 73.6,
+              "height": 3.3707865168539324,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "50035471-e",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "a Hane eseton ="
+              ],
+              "x": 10.4,
+              "y": 39.325842696629216,
+              "width": 73.6,
+              "height": 3.3707865168539324,
+              "rotation": 0
+            },
+            "score": 0.13714285714285715
+          },
+          {
+            "id": "e308bd28-7",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 5.4,
+              "y": 81.17977528089888,
+              "width": 54.6,
+              "height": 2.247191011235955,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "e308bd28-7",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Trsantn Word pees Ferien Tetras Wr Tuned Ui Seve"
+              ],
+              "x": 5.4,
+              "y": 81.17977528089888,
+              "width": 54.6,
+              "height": 2.247191011235955,
+              "rotation": 0
+            },
+            "score": 0.17666666666666667
+          },
+          {
+            "id": "bcbf2b5e-c",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 42.2,
+              "y": 91.01123595505618,
+              "width": 15.2,
+              "height": 2.247191011235955,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "bcbf2b5e-c",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Teak Yar vat aaa"
+              ],
+              "x": 42.2,
+              "y": 91.01123595505618,
+              "width": 15.2,
+              "height": 2.247191011235955,
+              "rotation": 0
+            },
+            "score": 0.23857142857142857
+          }
+        ],
+        "scores": 0.16463883735312307
+      }
+    ]
+  },
+  {
+    "data": {
+      "ocr": "http://localhost:8080/data/local-files/?d=test/data/upload/63a085d8d4fdce0328d9226c_Screen Shot 2022-12-19 at 10.38.35 AM.png"
+    },
+    "predictions": [
+      {
+        "result": [
+          {
+            "id": "c190c3b9-1",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 4.581993569131833,
+              "y": 3.064699205448354,
+              "width": 4.903536977491961,
+              "height": 3.064699205448354,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "c190c3b9-1",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "al"
+              ],
+              "x": 4.581993569131833,
+              "y": 3.064699205448354,
+              "width": 4.903536977491961,
+              "height": 3.064699205448354,
+              "rotation": 0
+            },
+            "score": 0.125
+          },
+          {
+            "id": "802b5aa5-0",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 1.9292604501607717,
+              "y": 5.788876276958002,
+              "width": 2.4115755627009645,
+              "height": 1.4755959137343928,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "802b5aa5-0",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "W"
+              ],
+              "x": 1.9292604501607717,
+              "y": 5.788876276958002,
+              "width": 2.4115755627009645,
+              "height": 1.4755959137343928,
+              "rotation": 0
+            },
+            "score": 0.015
+          },
+          {
+            "id": "5a2575e6-9",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 1.607717041800643,
+              "y": 8.569807037457435,
+              "width": 14.389067524115756,
+              "height": 3.8024971623155506,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "5a2575e6-9",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "7 Bayview Station Road  Ottawa, Ontario  Canada K1Y 3B5"
+              ],
+              "x": 1.607717041800643,
+              "y": 8.569807037457435,
+              "width": 14.389067524115756,
+              "height": 3.8024971623155506,
+              "rotation": 0
+            },
+            "score": 0.595
+          },
+          {
+            "id": "dae7950a-f",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 70.17684887459806,
+              "y": 3.1782065834279227,
+              "width": 27.491961414790996,
+              "height": 1.4188422247446084,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "dae7950a-f",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Bill of Lading #FRP-500344-1"
+              ],
+              "x": 70.17684887459806,
+              "y": 3.1782065834279227,
+              "width": 27.491961414790996,
+              "height": 1.4188422247446084,
+              "rotation": 0
+            },
+            "score": 0.5242857142857142
+          },
+          {
+            "id": "1c5e7b4d-3",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 80.86816720257235,
+              "y": 6.810442678774121,
+              "width": 17.363344051446944,
+              "height": 5.788876276958002,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "1c5e7b4d-3",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Freight Broker  Created By: Gwen Malbec  Phone: 5147941311  Email: gwen@freightpath.io"
+              ],
+              "x": 80.86816720257235,
+              "y": 6.810442678774121,
+              "width": 17.363344051446944,
+              "height": 5.788876276958002,
+              "rotation": 0
+            },
+            "score": 0.5725
+          },
+          {
+            "id": "412e2764-e",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 2.491961414790997,
+              "y": 14.018161180476731,
+              "width": 62.540192926045016,
+              "height": 0.9648127128263337,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "412e2764-e",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Bald tsa tne) Ge aaa Olea Carrier: Freight Broker"
+              ],
+              "x": 2.491961414790997,
+              "y": 14.018161180476731,
+              "width": 62.540192926045016,
+              "height": 0.9648127128263337,
+              "rotation": 0
+            },
+            "score": 0.2708333333333333
+          },
+          {
+            "id": "7fa2d852-c",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 50.72347266881029,
+              "y": 15.777525539160045,
+              "width": 30.868167202572348,
+              "height": 0.7377979568671964,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "7fa2d852-c",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Contact: Gwena\u00e9l Malbec SCAC: BABE"
+              ],
+              "x": 50.72347266881029,
+              "y": 15.777525539160045,
+              "width": 30.868167202572348,
+              "height": 0.7377979568671964,
+              "rotation": 0
+            },
+            "score": 0.54875
+          },
+          {
+            "id": "8618e9a4-4",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 2.4115755627009645,
+              "y": 16.23155505107832,
+              "width": 20.337620578778136,
+              "height": 7.094211123723042,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "8618e9a4-4",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Arrival: Jan 13 2023, 16:16  Departure: Jan 13 2023, 16:16  Contact: John Hopkins   Phone: +1 (736) 726-8833  Email: Jhopkins@thisiswork.com"
+              ],
+              "x": 2.4115755627009645,
+              "y": 16.23155505107832,
+              "width": 20.337620578778136,
+              "height": 7.094211123723042,
+              "rotation": 0
+            },
+            "score": 0.6388888888888888
+          },
+          {
+            "id": "1913d4a5-6",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 26.688102893890676,
+              "y": 16.23155505107832,
+              "width": 14.871382636655948,
+              "height": 3.8024971623155506,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "1913d4a5-6",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "2317 Landmeier Road  Elk Grove Village, Illinois  United States 60007"
+              ],
+              "x": 26.688102893890676,
+              "y": 16.23155505107832,
+              "width": 14.871382636655948,
+              "height": 3.8024971623155506,
+              "rotation": 0
+            },
+            "score": 0.6273333333333333
+          },
+          {
+            "id": "e19feeb1-9",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 50.80385852090032,
+              "y": 17.53688989784336,
+              "width": 37.459807073954984,
+              "height": 0.7377979568671964,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "e19feeb1-9",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Phone: 5147941311 MC Number: 5245676"
+              ],
+              "x": 50.80385852090032,
+              "y": 17.53688989784336,
+              "width": 37.459807073954984,
+              "height": 0.7377979568671964,
+              "rotation": 0
+            },
+            "score": 0.5912499999999999
+          },
+          {
+            "id": "298e864f-2",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 50.80385852090032,
+              "y": 19.296254256526673,
+              "width": 34.0032154340836,
+              "height": 0.9648127128263337,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "298e864f-2",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Email: gwen@freightpath.io USDOT: 1743796"
+              ],
+              "x": 50.80385852090032,
+              "y": 19.296254256526673,
+              "width": 34.0032154340836,
+              "height": 0.9648127128263337,
+              "rotation": 0
+            },
+            "score": 0.47714285714285715
+          },
+          {
+            "id": "f1878542-3",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 2.572347266881029,
+              "y": 21.679909194097615,
+              "width": 83.11897106109325,
+              "height": 3.8024971623155506,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "f1878542-3",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Pickup Instruction  Handle with care and call John prior to arriving at facility  CONSIGNEE: CHICAGO AIRPOT"
+              ],
+              "x": 2.572347266881029,
+              "y": 21.679909194097615,
+              "width": 83.11897106109325,
+              "height": 3.8024971623155506,
+              "rotation": 0
+            },
+            "score": 0.7066666666666668
+          },
+          {
+            "id": "e04e2255-4",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 26.688102893890676,
+              "y": 27.014755959137343,
+              "width": 16.961414790996784,
+              "height": 3.745743473325766,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "e04e2255-4",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "10000 West O'Hare Avenue  Chicago, Illinois  United States 60666"
+              ],
+              "x": 26.688102893890676,
+              "y": 27.014755959137343,
+              "width": 16.961414790996784,
+              "height": 3.745743473325766,
+              "rotation": 0
+            },
+            "score": 0.607857142857143
+          },
+          {
+            "id": "8e7d2435-3",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 2.4115755627009645,
+              "y": 26.95800227014756,
+              "width": 18.971061093247588,
+              "height": 2.497162315550511,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "8e7d2435-3",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Arrival: Jan 16 2023, 13:13  Departure: Jan 16 2023, 13:13"
+              ],
+              "x": 2.4115755627009645,
+              "y": 26.95800227014756,
+              "width": 18.971061093247588,
+              "height": 2.497162315550511,
+              "rotation": 0
+            },
+            "score": 0.6585714285714285
+          },
+          {
+            "id": "8738032c-4",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 50.80385852090032,
+              "y": 30.87400681044268,
+              "width": 13.183279742765274,
+              "height": 0.9648127128263337,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "8738032c-4",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Delivery Instruction"
+              ],
+              "x": 50.80385852090032,
+              "y": 30.87400681044268,
+              "width": 13.183279742765274,
+              "height": 0.9648127128263337,
+              "rotation": 0
+            },
+            "score": 0.37
+          },
+          {
+            "id": "8d10d63c-7",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 2.491961414790997,
+              "y": 32.406356413166854,
+              "width": 81.67202572347267,
+              "height": 0.9648127128263337,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "8d10d63c-7",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "eae 0-16 eae Cla e Arrive 2 hours before unloading begins at mining site."
+              ],
+              "x": 2.491961414790997,
+              "y": 32.406356413166854,
+              "width": 81.67202572347267,
+              "height": 0.9648127128263337,
+              "rotation": 0
+            },
+            "score": 0.5305882352941176
+          },
+          {
+            "id": "3ba14fe4-f",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 2.491961414790997,
+              "y": 34.676503972758226,
+              "width": 17.443729903536976,
+              "height": 3.9727582292849033,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "3ba14fe4-f",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Contact: Gwena\u00e9l Malbec  Phone: 5147941311  Email: gwen@freightpath.io"
+              ],
+              "x": 2.491961414790997,
+              "y": 34.676503972758226,
+              "width": 17.443729903536976,
+              "height": 3.9727582292849033,
+              "rotation": 0
+            },
+            "score": 0.5133333333333333
+          },
+          {
+            "id": "49407a0b-9",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 26.688102893890676,
+              "y": 34.676503972758226,
+              "width": 14.389067524115756,
+              "height": 3.745743473325766,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "49407a0b-9",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "7 Bayview Station Road  Ottawa, Ontario  Canada K1Y 385"
+              ],
+              "x": 26.688102893890676,
+              "y": 34.676503972758226,
+              "width": 14.389067524115756,
+              "height": 3.745743473325766,
+              "rotation": 0
+            },
+            "score": 0.5464285714285715
+          },
+          {
+            "id": "902608c5-d",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 3.135048231511254,
+              "y": 40.011350737797954,
+              "width": 93.32797427652733,
+              "height": 8.796821793416573,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "902608c5-d",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Units Type Description Dimensions Weight Hazmat Stack High Val  4 CARTON Machinery Parts - Bolts 48\" x 48\"x 48\" 23000.00Ib__N N N   7 PACKAGE Machinery Parts - Nuts 28\" x 28\"x 28\"  7600.00Ib  N N N   1 PIECES Machinery Parts - Engine CAT 6400 0\" x0\" x0\" 23000.00 Ib N N N   12 53600.00 Ib"
+              ],
+              "x": 3.135048231511254,
+              "y": 40.011350737797954,
+              "width": 93.32797427652733,
+              "height": 8.796821793416573,
+              "rotation": 0
+            },
+            "score": 0.6038461538461539
+          },
+          {
+            "id": "8e49e7ab-9",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 2.572347266881029,
+              "y": 67.4233825198638,
+              "width": 21.543408360128616,
+              "height": 2.497162315550511,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "8e49e7ab-9",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Declared Valuation: US$12000.00  Payment Terms: Collect"
+              ],
+              "x": 2.572347266881029,
+              "y": 67.4233825198638,
+              "width": 21.543408360128616,
+              "height": 2.497162315550511,
+              "rotation": 0
+            },
+            "score": 0.5589999999999999
+          },
+          {
+            "id": "fd65f22b-8",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 26.205787781350484,
+              "y": 67.4233825198638,
+              "width": 70.57877813504822,
+              "height": 3.575482406356413,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "fd65f22b-8",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore  magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo  consequat."
+              ],
+              "x": 26.205787781350484,
+              "y": 67.4233825198638,
+              "width": 70.57877813504822,
+              "height": 3.575482406356413,
+              "rotation": 0
+            },
+            "score": 0.824878048780488
+          },
+          {
+            "id": "7bcfc568-c",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 2.491961414790997,
+              "y": 72.1339387060159,
+              "width": 94.93569131832797,
+              "height": 8.967082860385926,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "7bcfc568-c",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Terms And Conditions   RECEIVED, subject to the classifications and lawfully filed tariffs in effect on the date of the issue of this Bill of Lading, the property described above in  apparent good order, except as notes, marked consigned and destined as indicated above which said carrier agrees to carry to its usual place of delivery  at said destination, if on its route, otherwise to deliver to another carrier on the route to its destination. It is mutually agreed as to each carrier of all or  any of the said property, over all or any portion of said route to destination and as to each party at any time interested in all or any of said property, that  every service to be performed hereunder shall be subject to the bill of lading terms and conditions in the governing classification on the date of shipment.  Shipper hereby certifies that he is familiar with all the bill of lading terms and conditions."
+              ],
+              "x": 2.491961414790997,
+              "y": 72.1339387060159,
+              "width": 94.93569131832797,
+              "height": 8.967082860385926,
+              "rotation": 0
+            },
+            "score": 0.8916568047337274
+          },
+          {
+            "id": "dd3ec817-f",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 88.9871382636656,
+              "y": 83.65493757094211,
+              "width": 8.440514469453376,
+              "height": 2.6106696935300793,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "dd3ec817-f",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Date  Dec 19 2022"
+              ],
+              "x": 88.9871382636656,
+              "y": 83.65493757094211,
+              "width": 8.440514469453376,
+              "height": 2.6106696935300793,
+              "rotation": 0
+            },
+            "score": 0.475
+          },
+          {
+            "id": "5d203cbf-6",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 2.491961414790997,
+              "y": 83.08740068104427,
+              "width": 76.04501607717042,
+              "height": 1.8161180476730987,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "5d203cbf-6",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Shipper | Name Date Driver | Name Date Consignee | Name"
+              ],
+              "x": 2.491961414790997,
+              "y": 83.08740068104427,
+              "width": 76.04501607717042,
+              "height": 1.8161180476730987,
+              "rotation": 0
+            },
+            "score": 0.7392857142857144
+          },
+          {
+            "id": "bd9087dc-b",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 1.6881028938906752,
+              "y": 86.71963677639046,
+              "width": 70.9807073954984,
+              "height": 1.8161180476730987,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "bd9087dc-b",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Signature Signature Signature"
+              ],
+              "x": 1.6881028938906752,
+              "y": 86.71963677639046,
+              "width": 70.9807073954984,
+              "height": 1.8161180476730987,
+              "rotation": 0
+            },
+            "score": 0.47333333333333333
+          },
+          {
+            "id": "f60b30df-3",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 1.607717041800643,
+              "y": 96.99205448354142,
+              "width": 96.46302250803859,
+              "height": 0.8513053348467651,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "f60b30df-3",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Send emails to abc@abc.com for PODs. wt"
+              ],
+              "x": 1.607717041800643,
+              "y": 96.99205448354142,
+              "width": 96.46302250803859,
+              "height": 0.8513053348467651,
+              "rotation": 0
+            },
+            "score": 0.619
+          }
+        ],
+        "scores": 0.542516521542877
+      }
+    ]
+  },
+  {
+    "data": {
+      "ocr": "http://localhost:8080/data/local-files/?d=test/data/upload/8150716b94bdf1e235300c5f3036f383-invoice-template-pdf-grey-1.png"
+    },
+    "predictions": [
+      {
+        "result": [
+          {
+            "id": "52a38619-c",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 12.51908396946565,
+              "y": 8.093126385809313,
+              "width": 36.18320610687023,
+              "height": 2.549889135254989,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "52a38619-c",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Your Company name"
+              ],
+              "x": 12.51908396946565,
+              "y": 8.093126385809313,
+              "width": 36.18320610687023,
+              "height": 2.549889135254989,
+              "rotation": 0
+            },
+            "score": 0.4749999999999999
+          },
+          {
+            "id": "d70de16a-c",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 12.366412213740459,
+              "y": 12.638580931263858,
+              "width": 34.50381679389313,
+              "height": 73.50332594235033,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "d70de16a-c",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Building name $1-541-754-3010   123 Your Street you@email.cam   \u2018City.Stata, Country yourwebsite.com   Zip Coda   BILLED TO   \u2018Client name   124 Your Street   \u2018City, State, Country   Zip Cada   Phone   Invoice pea   INVOICE NUMBER: \u2018Your item name   oo001  Your itam name   DATE OF ISSUE:   MMDDY YY Your itam name  Your itam name  Your itam name  Your itam name  Your itam name  Your itam name   TERMS"
+              ],
+              "x": 12.366412213740459,
+              "y": 12.638580931263858,
+              "width": 34.50381679389313,
+              "height": 73.50332594235033,
+              "rotation": 0
+            },
+            "score": 0.4680808080808081
+          },
+          {
+            "id": "7a515877-e",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 12.51908396946565,
+              "y": 87.25055432372505,
+              "width": 19.69465648854962,
+              "height": 0.8869179600886918,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "7a515877-e",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Please pay irwaioe by MMDOVY YY"
+              ],
+              "x": 12.51908396946565,
+              "y": 87.25055432372505,
+              "width": 19.69465648854962,
+              "height": 0.8869179600886918,
+              "rotation": 0
+            },
+            "score": 0.3622222222222222
+          },
+          {
+            "id": "68be0449-a",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 79.08396946564885,
+              "y": 14.634146341463415,
+              "width": 7.480916030534351,
+              "height": 0.6651884700665188,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "68be0449-a",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "YOUR LOGO"
+              ],
+              "x": 79.08396946564885,
+              "y": 14.634146341463415,
+              "width": 7.480916030534351,
+              "height": 0.6651884700665188,
+              "rotation": 0
+            },
+            "score": 0.374
+          },
+          {
+            "id": "7d0c61ae-1",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 57.25190839694657,
+              "y": 35.92017738359202,
+              "width": 28.85496183206107,
+              "height": 40.687361419068736,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "7d0c61ae-1",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Peer ia   $0.00 1 $0.00  $0.00 1 $0.00  $0.00 1 $0.00  $0.00 1 $0.00  $0.00 1 $0.00  $0.00 1 $0.00  $0.00 1 $0.00  $0.00 1 $0.00   SUBTOTAL $0.00   DISCOUNT $0.00   TAX RATE o%   TAK $0.00   INVOICE TOTAL   $0.00"
+              ],
+              "x": 57.25190839694657,
+              "y": 35.92017738359202,
+              "width": 28.85496183206107,
+              "height": 40.687361419068736,
+              "rotation": 0
+            },
+            "score": 0.5216129032258061
+          },
+          {
+            "id": "a91c32f6-4",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 64.42748091603053,
+              "y": 79.71175166297118,
+              "width": 15.419847328244275,
+              "height": 8.203991130820398,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "a91c32f6-4",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "BANK ACCOUNT DETAILS  Account Holder:  Account number:   ABA rin: 026073150  Wire rin: 026072008"
+              ],
+              "x": 64.42748091603053,
+              "y": 79.71175166297118,
+              "width": 15.419847328244275,
+              "height": 8.203991130820398,
+              "rotation": 0
+            },
+            "score": 0.5380952380952382
+          },
+          {
+            "id": "38e217ab-f",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 59.38931297709924,
+              "y": 92.6829268292683,
+              "width": 27.786259541984734,
+              "height": 1.441241685144124,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "38e217ab-f",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Send money abroad with Wise. Twie"
+              ],
+              "x": 59.38931297709924,
+              "y": 92.6829268292683,
+              "width": 27.786259541984734,
+              "height": 1.441241685144124,
+              "rotation": 0
+            },
+            "score": 0.5366666666666666
+          }
+        ],
+        "scores": 0.4679539768986773
+      }
+    ]
+  },
+  {
+    "data": {
+      "ocr": "http://localhost:8080/data/local-files/?d=test/data/upload/abc.jpg"
+    },
+    "predictions": [
+      {
+        "result": [
+          {
+            "id": "0cd82e29-4",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 4.6875,
+              "y": 2.569169960474308,
+              "width": 90.91796875,
+              "height": 5.335968379446641,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "0cd82e29-4",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Shri Ganesh Catering Services | Total 24,970.00  DHiSoresh STN ar17OBMancerzs Invoice Date 13/07/2017"
+              ],
+              "x": 4.6875,
+              "y": 2.569169960474308,
+              "width": 90.91796875,
+              "height": 5.335968379446641,
+              "rotation": 0
+            },
+            "score": 0.4523529411764706
+          },
+          {
+            "id": "bc6c503e-5",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 4.19921875,
+              "y": 6.4229249011857705,
+              "width": 91.40625,
+              "height": 22.529644268774703,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "bc6c503e-5",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "crm tate Andhra Pradesh (37) mk an tnoooi2  PAN. ARGPVOSERPV \u2018erence  TAX INVOICE  Customer Name Billing Address Shipping Address  Kabir Jewellers_AP Kabir Jewellers_AP Kabir Jewellers_AP  F-45 Airport Road, Hyderabad F-45 Airport Road, Hyderabad   Customer GSTIN \u2018Andhra Pradesh \u2018Andhra Pradesh  Country of Supply India Place of Supply Andhra Pradesh (37) Due Date 12/07/2017"
+              ],
+              "x": 4.19921875,
+              "y": 6.4229249011857705,
+              "width": 91.40625,
+              "height": 22.529644268774703,
+              "rotation": 0
+            },
+            "score": 0.6166666666666666
+          },
+          {
+            "id": "a23c02a9-9",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 4.6875,
+              "y": 38.04347826086956,
+              "width": 90.13671875,
+              "height": 18.47826086956522,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "a23c02a9-9",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Dry Fruits Pack (08131000 200.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00  @6% 5%   2. freight @12% = 1.00 500.00 0.00 500.00 30.00 30.00 0.00 560.00  26% 5%   3. Saffron 0910 5.00 800.00 0.00 4,000.00 100.00 1100.00 0.00 4200.00  225% @25%   4. Freight @5% ~ 1.00 200.00 0.00 200.00 5.00 5.00 0.00 210.00  @25% = @25%"
+              ],
+              "x": 4.6875,
+              "y": 38.04347826086956,
+              "width": 90.13671875,
+              "height": 18.47826086956522,
+              "rotation": 0
+            },
+            "score": 0.5314492753623189
+          },
+          {
+            "id": "65e53081-b",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 78.125,
+              "y": 62.055335968379445,
+              "width": 16.89453125,
+              "height": 7.509881422924901,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "65e53081-b",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "TaxableAmount 4,700.00  TotalTax 270.00  Invoice Total % 4,970.00"
+              ],
+              "x": 78.125,
+              "y": 62.055335968379445,
+              "width": 16.89453125,
+              "height": 7.509881422924901,
+              "rotation": 0
+            },
+            "score": 0.29923076923076924
+          },
+          {
+            "id": "d1e83185-9",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 52.24609375,
+              "y": 71.54150197628458,
+              "width": 42.7734375,
+              "height": 1.284584980237154,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "d1e83185-9",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Total amount (in words) Four Thousand Nine Hundred Seventy Rupees Only"
+              ],
+              "x": 52.24609375,
+              "y": 71.54150197628458,
+              "width": 42.7734375,
+              "height": 1.284584980237154,
+              "rotation": 0
+            },
+            "score": 0.6485714285714285
+          },
+          {
+            "id": "c57f0f70-2",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 78.3203125,
+              "y": 83.89328063241106,
+              "width": 17.28515625,
+              "height": 3.260869565217391,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "c57f0f70-2",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "For Shri Ganesh Catering Services  (Authorised Signatory)"
+              ],
+              "x": 78.3203125,
+              "y": 83.89328063241106,
+              "width": 17.28515625,
+              "height": 3.260869565217391,
+              "rotation": 0
+            },
+            "score": 0.6036363636363636
+          },
+          {
+            "id": "448fc046-b",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 27.05078125,
+              "y": 93.97233201581028,
+              "width": 45.703125,
+              "height": 1.284584980237154,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "448fc046-b",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "\u2018Shri Ganesh Catering Services, C-34 Defence Colony, Hyderabad, Andhra Pradesh 320876"
+              ],
+              "x": 27.05078125,
+              "y": 93.97233201581028,
+              "width": 45.703125,
+              "height": 1.284584980237154,
+              "rotation": 0
+            },
+            "score": 0.732857142857143
+          }
+        ],
+        "scores": 0.5549663696430229
+      }
+    ]
+  }
+]
